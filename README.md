@@ -11,11 +11,6 @@ Olá, sou Leonardo, estudante de Ciência da Computação focado no desenvolvime
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-lima-dos-santos-bb4b772b8/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loadlms)
 
-## 📚 Plataformas de estudo:
-
-[![My profile DIO](https://img.shields.io/badge/DIO-darkblue?style=for-the-badge)](https://www.dio.me/users/lleoanardo)
-[![My profile DIO](https://img.shields.io/badge/SoloLearn-red?style=for-the-badge)](https://www.sololearn.com/pt/profile/30908062)
-
 ## 💻 Tecnologias:
 
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma) 
@@ -35,4 +30,4 @@ Olá, sou Leonardo, estudante de Ciência da Computação focado no desenvolvime
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
-Estou ansioso para aprender e crescer na área da programação. Se você está procurando um colaborador dedicado e entusiasmado, entre em contato! Estou pronto para enfrentar novos desafios e contribuir com novos projetos.
+Estou ansioso para aprender e crescer na área de tecnologia. Se você está procurando um colaborador dedicado e entusiasmado, entre em contato! Estou pronto para enfrentar novos desafios e contribuir com novos projetos.
